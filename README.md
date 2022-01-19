@@ -1,5 +1,5 @@
 # vue_table_tree
-
+基于 vue 和 elementUi 组件库的树型表格实现可编辑同时通过递回向父级汇总数据功能（适用于数据量适中的场景）
 > A Vue.js project
 
 ## Build Setup
